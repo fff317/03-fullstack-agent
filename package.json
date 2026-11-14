@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/fff317/03-fullstack-agent#readme",
   "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
     "typescript": "^7.0.2"
   }
 }
