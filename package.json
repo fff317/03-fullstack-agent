@@ -1,8 +1,25 @@
-﻿{
+{
   "name": "03-fullstack-agent",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "node server.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fff317/03-fullstack-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fff317/03-fullstack-agent/issues"
+  },
+  "homepage": "https://github.com/fff317/03-fullstack-agent#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
   }
 }
