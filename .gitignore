@@ -6,3 +6,27 @@ build/
 .env.*
 .DS_Store
 *.log
+
+# Python virtual environment
+.venv/
+**/.venv/
+
+# Node.js dependencies
+node_modules/
+**/node_modules/
+
+# Environment variables
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
