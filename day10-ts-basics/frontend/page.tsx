@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import type { SubmitEvent } from "react";
-import { sendChat } from "../lib/api/chat";
+import { sendChat } from "./chat";
 
 export default function Page() {
   const [text, setText] = useState("");

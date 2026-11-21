@@ -1,0 +1,3 @@
+module.exports=[18622,(a,b,c)=>{b.exports=a.x("next/dist/compiled/next-server/app-page-turbo.runtime.prod.js",()=>require("next/dist/compiled/next-server/app-page-turbo.runtime.prod.js"))},60842,a=>{"use strict";var b=a.i(75106);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"zh",children:(0,b.jsx)("body",{children:a})})}])},60278,function(a){a.n(a.i(60842))},83578,(a,b,c)=>{"use strict";b.exports=a.r(18622)},75106,(a,b,c)=>{"use strict";b.exports=a.r(83578).vendored["react-rsc"].ReactJsxRuntime}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__1j8--a7-wa-br._.js.map
